@@ -1,9 +1,6 @@
 # Guayabita
   Juego implemetado en python con programacion imperativa
-  
-  Nicolás Meneses Guerrero 			20161020533
-  
-  Camilo Ramirez Alarcon   			20142020078
+
 ## Codigo
 <pre><code>
 def juego(pool1, pool2, Apuesta1, Apuesta2, mesa):
